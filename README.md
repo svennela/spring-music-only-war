@@ -14,3 +14,6 @@ cd spring-music-only-war
 cf push
 
 =====================
+
+![ScreenShot](https://github.com/svennela/spring-music-only-war/blob/master/screenshot.png)
+
